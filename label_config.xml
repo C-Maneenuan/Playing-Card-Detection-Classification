@@ -1,0 +1,11 @@
+<View>
+  <Image name="image" value="$image" zoom="true" showLabels="true"/>
+  <RectangleLabels name="label" toName="image">
+    <Label value="unlabeled" background="#9e9e9e"/>
+    <Label value="clubs"     background="#1a1a1a"/>
+    <Label value="diamonds"  background="#e6194b"/>
+    <Label value="hearts"    background="#ff6b6b"/>
+    <Label value="spades"    background="#4a4a4a"/>
+    <Label value="occluded"  background="#8a2be2"/>
+  </RectangleLabels>
+</View>

@@ -1,0 +1,5 @@
+path: /Users/Mr.Jasek/Desktop/PlayingCard/dataset/yolo
+train: images/train
+val: images/val
+nc: 4
+names: [clubs, diamonds, hearts, spades]
